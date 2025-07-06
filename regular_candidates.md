@@ -3,7 +3,8 @@
 ---
 
 ## นาย ศิวภูมิ พรหมจรรย์ (ภูมิ)  
-![รูปน้องภูมิ](ใส่ลิงก์รูปที่นี่)  
+<img src="https://github.com/user-attachments/assets/f272834f-f376-4757-a96c-dadaf273408a" alt="รูปน้องภูมิ" width="25%" />
+
 **Instagram:** [@phum_siva](https://www.instagram.com/phum_siva/)  
 
 ### คำถาม : ทำไมอยากเป็นประธานภาคล่ะ?  
@@ -16,7 +17,8 @@
 ---
 
 ## นาย ศิรวิชญ์ กู้สกุลไพบูลย์ (ต้า)  
-![รูปน้องต้า](ใส่ลิงก์รูปที่นี่)  
+<img src="https://github.com/user-attachments/assets/62a1432d-52d6-4c7b-a2cc-bda8be63f40c" alt="รูปน้องต้า" width="25%" />
+
 **Instagram:** [@txr._.srw](https://www.instagram.com/txr._.srw/)  
 
 ### คำถาม : ทำไมอยากเป็นประธานภาคล่ะ?  
