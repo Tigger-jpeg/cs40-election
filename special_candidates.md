@@ -3,7 +3,8 @@
 ---
 
 ## นาย ปราชญ์ โชคสัมฤทธิ์ผล (ปั๊ม)  
-![รูปน้องปั๊ม](ใส่ลิงก์รูปที่นี่)  
+<img src="https://github.com/user-attachments/assets/7e692313-b6a3-4f54-9727-79cd21b17de2" alt="รูปน้องปั๊ม" width="25%" />
+
 **Instagram:** [@pumpprach](https://www.instagram.com/pumpprach/)  
 
 ### คำถาม: ทำไมอยากเป็นประธานภาคล่ะ?  
@@ -31,7 +32,8 @@
 ---
 
 ## นาย ภัคพล พัฒนากุล (แอล)  
-![รูปน้องแอล](ใส่ลิงก์รูปที่นี่)  
+<img src="https://github.com/user-attachments/assets/beeeb7e6-97e2-49d0-8790-7637ecee4b6d" alt="รูปน้องแอล" width="25%" />
+
 **Instagram:** [@pelle.luk](https://www.instagram.com/pelle.luk/)  
 
 ### คำถาม: ทำไมอยากเป็นประธานภาคล่ะ?  
