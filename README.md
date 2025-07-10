@@ -5,6 +5,8 @@ This repository contains candidate profiles for the CS40 batch president electio
 <img width="735" height="282" alt="image" src="https://github.com/user-attachments/assets/f53e10e3-090b-4a57-af92-0c4301e7c16b" />
 <img width="725" height="278" alt="image" src="https://github.com/user-attachments/assets/ff014eb2-aa07-4dec-ba70-3565097dd12c" />
 
+- โดยมีผู้ลงคะแนนทั้งหมด 83 คน 
+
 ## รายชื่อผู้ลงคะแนนเสียง
 paphangkon.y@ku.th	6810451145	ปภังกร ยศเมฆ	ภาคพิเศษ
 danita.r@ku.th	6810450998	ดนิตา ริ้วศรีกุล	ภาคพิเศษ
